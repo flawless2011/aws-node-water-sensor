@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "outDir": "dist",
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "target": "ES2018",
+    "esModuleInterop": true,
+  },
+  "compileOnSave": true,
+  "include": [
+    "src"
+  ],
+}
